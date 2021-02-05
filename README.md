@@ -1,2 +1,3 @@
 # test_repository
-a test repo for class
+
+This repository will be an example I use in class
